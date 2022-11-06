@@ -11,6 +11,6 @@ int main()
     printf("\nPrinciple Amount = %d ",p);
     printf("\nTime             = %d ",t);
     printf("\nRate Per Anum    = %f ",r);
-    printf("\nTotal Amount     = %f ",si);
+    printf("\nTotal Interest   = %f ",si);
     return 0;
 }
