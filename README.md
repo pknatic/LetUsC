@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pknatic&label=Profile%20views&color=0e75b6&style=flat" alt="pknatic" /> </p>
-
 <p align="left"> <a href="https://twitter.com/pknatic" target="blank"><img src="https://img.shields.io/twitter/follow/pknatic?logo=twitter&style=for-the-badge" alt="pknatic" /></a> </p>
 
 - 🌱 I’m currently learning **C Language And Cyber Security**
