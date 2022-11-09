@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar</h1>
 <p align="left"> <a href="https://twitter.com/pknatic" target="blank"><img src="https://img.shields.io/twitter/follow/pknatic?logo=twitter&style=for-the-badge" alt="pknatic" /></a> </p>
-<p align="left"> <a href="https://www.instagram.com/pknatic/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"pknatic"  height="30" width="40"/></a> </p>
 
 - 🌱 I’m currently learning **C Language And Cyber Security**
 
