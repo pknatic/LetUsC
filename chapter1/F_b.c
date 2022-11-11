@@ -7,8 +7,8 @@ printf("Enter the length of rectangal = ");
 scanf("%f",&l);
 printf("Enter the length of Breadth = ");
 scanf("%f",&b);
-area1=l*b;   /*formula for area of rectangular*/
-peri=2*l+2*b;/*formula for perimeter of rectangular*/
+area1=l*b;    /*formula for area of rectangular*/
+peri=2*l+2*b; /*formula for perimeter of rectangular*/
 printf("Area Of Rectangal = %.2f \n",area1);
 printf("Perimeter Of Rectangal = %.2f \n",peri);
 /*calculate Circle area and circumference */
