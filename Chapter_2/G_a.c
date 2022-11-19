@@ -1,4 +1,5 @@
-/*If a five digit number input through the keyboard,write to program to calculate the sum of its digits. (Hint: use the modulus operator %)*/
+/*If a five-digit number is an input through the keyboard, write to the program to calculate the sum of its digits.
+(Hint: use the modulus operator %).*/
 #include <stdio.h>
 int main()
 {
