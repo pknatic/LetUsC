@@ -19,7 +19,7 @@ if (shyam<ram && shyam<ajay)
 }
 if (ajay<shyam && ajay<ram)
 {
-    printf("Shyam is younger");
+    printf("Ajay is younger");
 }
     return 0;
 }
