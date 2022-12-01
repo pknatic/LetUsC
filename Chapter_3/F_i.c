@@ -1,17 +1,18 @@
 /* According to the Gregorian calendar, it was Monday on the date 01/01/01. If any year is input through the keyboard write a program to find out the day on 1st January of this year. */
-#include<stdio.h>
+<stdio.h>
 int main()
 {
-int yr,day,basic_year=1900,total_years,leap_days;/**/
+int yr,day,normal_days,leap_days;
 printf("Enter the year = ");
 scanf("%d",&yr);
-total_years=(yr-1)-basic_year;/*We'll got Total no. of  years */
-printf("Total Years between basic and Entered = %d\n",total_years);
-leap_days=total_years/4; /*We'll got Total no. of leap days*/
-printf("Total leap days  = %d\n",leap_days);
-day=(total_years*365)+leap_days+1; /*We'll Got total days */
-printf("Total Days = %d\n",day);
+normal_days=(yr-1)*365;/*we use -1 because entered year is not completed their 365 days*/
+printf("%d\n",normal_days);
+leap_days=((yr-1)/4+(yr-1)/400)-(yr-1)/100;/*As per rule which year fully devided by 4 and 400 is a leap year and which not devide is not a leap year*/
+printf("%d\n",leap_days);
+day=normal_days+leap_days;/* we enterd +1 because we want to the day of 01/01/YEAR.*/
+printf("%d\n",day);
 day=day%7; /*We need Remainder For Identify the day*/
+printf("%d\n",day);
 if (day==0)
     {
         printf("The fisrt day of the year %d = Monday ",yr);
