@@ -9,8 +9,7 @@ int main()
     scanf("%d",&n2);
     printf("Enter third number = ");
     scanf("%d",&n3);
-    big=(n1>n2)&&(n1>n3)?n1:(n2>n1)&&(n2>n3)?n2:(n3>n1)&&(n3>n2)?n3:printf("All are same.\n");
-    // big= n1>n2?(n1>n3?n1:n3):(n2>n3?n2:n3); 2nd method
+    big= n1>n2?(n1>n3?n1:n3):(n2>n3?n2:n3);
     printf("Biggest number is %d \n",big);
     return 0;
 }
