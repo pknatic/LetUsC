@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar</h1>
-<p align="left"> <a href="https://twitter.com/pknatic" target="blank"><img src="https://img.shields.io/twitter/follow/pknatic?logo=twitter&style=for-the-badge" alt="pknatic" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pknatic" target="_blank"><img src="https://img.shields.io/twitter/follow/pknatic?logo=twitter&style=for-the-badge" alt="pknatic" /></a> </p>
 
 - 🌱 I’m currently learning **C Language And Cyber Security**
 
@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/pknatic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pknatic" height="30" width="40" /></a>
-<a href="https://twitter.com/pknatic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pknatic" height="30" width="40" /></a>
-<a href="https://instagram.com/pknatic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pknatic" height="30" width="40" /></a>
-<a href="https://bit.ly/3IVoWSB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pknatic tech" height="30" width="40" /></a>
+<a href="https://dev.to/pknatic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pknatic" height="30" width="40" /></a>
+<a href="https://twitter.com/pknatic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pknatic" height="30" width="40" /></a>
+<a href="https://instagram.com/pknatic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pknatic" height="30" width="40" /></a>
+<a href="https://bit.ly/3IVoWSB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pknatic tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
