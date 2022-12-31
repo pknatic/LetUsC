@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/pknatic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pknatic" height="30" width="40" /></a>
+<a href="https://dev.to/pknatic" ><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pknatic" height="30" width="40" /></a>
 <a href="https://twitter.com/pknatic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pknatic" height="30" width="40" /></a>
 <a href="https://instagram.com/pknatic" target="_blank"><img align="center" src="https://github.com/pknatic/files/blob/47397aa7c17b84d4380a21002ac6f7caf405fa11/icons/icons8-instagram-96.svg" alt="pknatic" height="30" width="40" /></a>
 <a href="https://bit.ly/3IVoWSB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pknatic tech" height="30" width="40" /></a>
